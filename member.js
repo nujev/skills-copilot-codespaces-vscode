@@ -1,3 +1,3 @@
-function skullsMember() {
+function skillsMember() {
   // do something
 }
